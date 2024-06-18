@@ -1,0 +1,6 @@
+﻿  funkcije.c
+C:\Users\student\source\repos\ProjektFlappyBirdPZ\ProjektFlappyBirdPZ\funkcije.c(293,16): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+C:\Users\student\source\repos\ProjektFlappyBirdPZ\ProjektFlappyBirdPZ\funkcije.c(339,16): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+C:\Users\student\source\repos\ProjektFlappyBirdPZ\ProjektFlappyBirdPZ\funkcije.c(459,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\student\source\repos\ProjektFlappyBirdPZ\ProjektFlappyBirdPZ\funkcije.c(469,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  ProjektFlappyBirdPZ.vcxproj -> C:\Users\student\source\repos\ProjektFlappyBirdPZ\Debug\ProjektFlappyBirdPZ.exe
